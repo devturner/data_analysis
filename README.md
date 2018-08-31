@@ -1,5 +1,5 @@
 # Data Analysis
-###Introduction to Data Science
+### Introduction to Data Science
 ##### Chris Turner - Aug 30, 18
 
 Uses:
@@ -9,5 +9,3 @@ Datetime
 CSV
 Jupyter Notebook
 PIPENV
-
-
